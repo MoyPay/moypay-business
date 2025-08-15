@@ -49,7 +49,7 @@ MoyPay provides a unified payment infrastructure that combines the best of tradi
 - **Smart Contracts**: Solidity EVM
 - **Backend**: Node.js with Express.js
 - **Database**: PostgreSQL with Redis caching
-- **Blockchain**: Etherlink
+- **Blockchain**: Core Testnet
 - **Cloud**: AWS with auto-scaling infrastructure
 
 ### Frontend & User Experience
